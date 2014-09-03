@@ -3,6 +3,8 @@
   "version": "0.8",
   "main": "lib/index.js",
   "dependencies": {
-    "cts/util": "*"
+    "cts/util": "*",
+    "cts/relations": "*",
+    "cts/model": "*"
   }
 }
